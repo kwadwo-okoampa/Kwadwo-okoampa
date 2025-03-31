@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I'm Francis Osae 
 
 <!--
 **kwadwo-okoampa/Kwadwo-okoampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
