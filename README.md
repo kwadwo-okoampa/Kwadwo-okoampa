@@ -29,7 +29,7 @@ I'm a Frontend Software Engineer and a creative designer building my version of 
 
 <h3 align="left">Get in touch:</h3>
 
-[<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/frans_osae/)]
+[<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/frans_osae/)
 [<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/frans_okoampa)
 [<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francis-osae-okoampa-907553196/)
 
