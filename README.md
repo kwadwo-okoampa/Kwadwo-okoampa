@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **`Front End Software Engineer/Creative Designer)`**
 
-I'm a Frontend Software Engineer and a creative designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my creative artworks are designed the same way, from ideation and planning, all the way to finalizing creative designs with artistic touches. I publish that brand identity and designs on the company instagram account [<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/eyenit_inc/) to more than 3k followers.
+I'm a Frontend Software Engineer and a creative designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my creative artworks are designed the same way, from ideation and planning, all the way to finalizing creative designs with artistic touches. I publish that brand identity and designs on the company instagram account [instagram](https://www.instagram.com/eyenit_inc/) to more than 3k followers.
 
 - 🔭 I’m currently working on a Website
 - 🌱 I’m currently learning NEXT.js
@@ -29,9 +29,11 @@ I'm a Frontend Software Engineer and a creative designer building my version of 
 
 <h3 align="left">Get in touch:</h3>
 
-[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francis-osae-okoampa-907553196/)
+[<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/frans_osae/)]
 [<img src = "https://img.shields.io/badge/Twitter-%2320A1F1.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://x.com/frans_okoampa)
-[<img src = "https://img.shields.io/badge/Instagram-%181717.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F">](https://www.instagram.com/frans_osae/)
+[<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/francis-osae-okoampa-907553196/)
+
+
 
 ---
 
