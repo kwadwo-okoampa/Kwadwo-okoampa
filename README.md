@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 🏄‍♂️ I'm Frans Osae 
+# 🏄‍♂️ Hey there, I'm 👋 Francis Okoampa 
 
 **`Front End Software Engineer/Creative Designer)`**
 
