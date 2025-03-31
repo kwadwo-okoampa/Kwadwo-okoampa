@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 **`Front End Software Engineer/Creative Designer)`**
 
-I'm a Frontend Software Engineer and a creative designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my creative artworks are designed the same way, from ideation and planning, all the way to finalizing creative designs with artistic touches. I publish that brand identity and designs on the company instagram account [instagram](https://www.instagram.com/eyenit_inc/) to more than 3k followers.
+I'm a Frontend Software Engineer and a creative designer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All my creative artworks are designed the same way, from ideation and planning, all the way to finalizing creative designs with artistic touches. I publish that brand identity and designs on the company instagram account [Eyenit](https://www.instagram.com/eyenit_inc/) to more than 3k followers.
 
 - 🔭 I’m currently working on a Website
 - 🌱 I’m currently learning NEXT.js
